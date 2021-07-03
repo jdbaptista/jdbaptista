@@ -1,8 +1,7 @@
 
 I'm Jaden Baptista, a freshman at SBCC pursuing a degree in computer science.
 I learned a little python (check out my snake repository built in tkinter) and have since switched to java.
-I am currently working on software to increase office efficiency at my job while also
-trying to focus on competitive programming.
+I am currently learning C++ and honing my algorithm skills.
 
 You can reach me at baptistajaden@gmail.com.
 
