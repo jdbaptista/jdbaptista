@@ -6,6 +6,7 @@ I have learned:
 - Java
 - Assembly
 - C/C++
+- HTML/CSS
 
 I am currently learning web development and Electron specifically.
 
