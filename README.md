@@ -8,7 +8,7 @@ I have learned:
 - C/C++
 - HTML/CSS
 
-I am currently learning web development and Electron specifically.
+I am currently learning web development with Java Spring and Electron.
 
 You can reach me at baptistajaden@gmail.com.
 
