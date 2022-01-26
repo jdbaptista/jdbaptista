@@ -1,14 +1,12 @@
 
 I'm Jaden Baptista, a sophomore at Santa Barbara City College.
 
-I have learned:
-- Python
+I mainly use:
 - Java
-- Assembly
-- C/C++
-- HTML/CSS
+- C++
+- HTML/CSS/JS
 
-I am currently learning web development with Java Spring and Electron.
+I am currently building a fullstack app with spring boot and electron js.
 
 You can reach me at baptistajaden@gmail.com.
 
