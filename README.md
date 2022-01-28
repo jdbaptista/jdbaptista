@@ -6,7 +6,7 @@ I mainly use:
 - C++
 - HTML/CSS/JS
 
-I am currently building a fullstack app with spring boot and electron js.
+I am currently working on [a fullstack project using Spring boot and ElectronJS.](https://jdbaptista/Office)
 
 <!---
 jdbaptista/jdbaptista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
