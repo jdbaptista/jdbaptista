@@ -1,3 +1,1 @@
-I'm a recent EECS graduate from UC Berkeley interested in firmware development. I am currently searching for a full-time position where I can put my skillset to use creating impactful technology.
-
-While searching, I have been working part-time at Outside Open to develop a decorative display of real-time traffic conditions in the greater Los Angeles area. Please feel free to contact me with any questions about the firmware, hardware, or obtaining a prototype!
+I am a Firmware Engineer based in Santa Barbara with a B.S in EECS from UC Berkeley. Recently I have been working part-time at Outside Open to develop a decorative display of real-time traffic conditions in the greater Los Angeles area using an ESP32. Feel free to contact me with any questions about the project, obtaining a prototype, or with questions about ESP-IDF and the VSCode extension!
