@@ -1,1 +1,1 @@
-I am a Firmware Engineer based in Santa Barbara currently working with ESP32s using ESP-IDF. I am an alumni of both SBCC and UC Berkeley and have recently been working at Outside Open to develop a decorative LED display of real-time traffic conditions in the greater Los Angeles area. Feel free to contact me with any technical questions!
+
